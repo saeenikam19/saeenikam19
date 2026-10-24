@@ -1,14 +1,15 @@
 
-# `saeenikam19` — Saee Nikam
+<div align="center">
 
-```text
-┌───────────────────────────────────────────────────────────┐
-│  SYSTEM  : SAEE_NIKAM                                      │
-│  DOMAIN  : AI / MACHINE LEARNING / DATA SCIENCE           │
-│  MODE    : BUILD > TEST > LEARN > REPEAT                  │
-│  PHILOSOPHY: LESS NOISE. BETTER EXPERIMENTS.               │
-└───────────────────────────────────────────────────────────┘
-```
+# Saee Nikam
+
+### `AI/ML Engineer | Data Science | Python`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions;Turning+data+into+insights;Machine+Learning+%7C+NLP+%7C+Python;Learn.+Build.+Experiment.+Improve." alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:164E63&height=3&section=header" width="100%" alt=""/>
+
+</div>
 
 ## `$ whoami`
 
@@ -37,24 +38,24 @@ class Developer:
 
 ### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=013243)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=00D9FF)
 
 ### Machine Learning & NLP
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![NLP](https://img.shields.io/badge/Natural_Language_Processing-1E293B?style=flat-square)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-1E293B?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-1E293B?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![NLP](https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logoColor=00D9FF)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-0F172A?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-0F172A?style=for-the-badge)
 
-### Tools & Development
+### Development Tools
 
-![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=FFFFFF)
-![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=F37626)
-![VS Code](https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
@@ -66,23 +67,23 @@ A classification project focused on preparing student data, training a machine l
 
 **Tech:** Python · Pandas · Scikit-learn · Classification
 
-[View Repository](https://github.com/saeenikam19/student-performance-prediction)
+[→ View Repository](https://github.com/saeenikam19/student-performance-prediction)
 
 ### `02` — House Price Prediction
 
-A regression project that explores property features, price estimation, data preparation, and model evaluation.
+A regression project exploring property features, price estimation, data preparation, and model evaluation.
 
 **Tech:** Python · Pandas · Scikit-learn · Regression
 
-[Explore Repositories](https://github.com/saeenikam19?tab=repositories)
+[→ Explore Repositories](https://github.com/saeenikam19?tab=repositories)
 
 ### `03` — Customer Sentiment Analyzer
 
-An NLP project that converts customer review text into numerical features using TF-IDF and applies text classification techniques to analyze sentiment.
+An NLP project that transforms customer reviews into numerical features using TF-IDF and applies text classification techniques to analyze sentiment.
 
 **Tech:** Python · NLP · TF-IDF · Text Classification
 
-[Explore Repositories](https://github.com/saeenikam19?tab=repositories)
+[→ Explore Repositories](https://github.com/saeenikam19?tab=repositories)
 
 ### `04` — Resume–Job Match Engine
 
@@ -90,7 +91,7 @@ A text-matching application that compares resumes with job descriptions using TF
 
 **Tech:** Python · NLP · TF-IDF · Cosine Similarity
 
-[Explore Repositories](https://github.com/saeenikam19?tab=repositories)
+[→ Explore Repositories](https://github.com/saeenikam19?tab=repositories)
 
 ---
 
@@ -108,31 +109,20 @@ The objective is not simply to make a model run. It is to understand its behavio
 
 ---
 
-## `$ git --activity`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeenikam19&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeenikam19&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## `$ connect --with-saee`
 
 Interested in AI/ML engineering, practical machine learning applications, and collaborating on meaningful technical projects.
 
 - **GitHub:** [saeenikam19](https://github.com/saeenikam19)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email address
+- **LinkedIn:** https://www.linkedin.com/in/saee-nikam-96bb5821b
+- **Email:** saeenikam19@gmail.com
 
----
+<div align="center">
 
-```bash
-while true; do
-    learn
-    build
-    test
-    improve
-done
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164E63,100:0F172A&height=3&section=footer" width="100%" alt=""/>
+
+### `while(alive) { learn(); build(); improve(); }`
 
 <sub>Less noise. Better experiments. Useful solutions.</sub>
+
+</div>
