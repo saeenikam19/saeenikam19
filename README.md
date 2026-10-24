@@ -7,9 +7,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Final-year **B.Tech Data Science Engineering** student passionate about building practical solutions using Python, Machine Learning, and AI.
-
-I enjoy turning data into meaningful insights, developing ML models, and building projects that solve real-world problems.
+AI/ML enthusiast focused on developing data-driven applications using Python, Machine Learning, and Natural Language Processing. Skilled in data preprocessing, model development, and evaluation using Scikit-learn and related technologies. Committed to building practical, efficient, and reliable AI solutions while continuously expanding technical expertise.
 
 ```python
 class SaeeNikam:
