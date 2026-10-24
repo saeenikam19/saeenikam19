@@ -1,147 +1,138 @@
-# `> Hello, World!` I'm Saee Nikam
+
+# `saeenikam19` — Saee Nikam
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  AI/ML ENGINEER IN PROGRESS                                  │
-│  Data Science | Machine Learning | Python | NLP              │
-└─────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│  SYSTEM  : SAEE_NIKAM                                      │
+│  DOMAIN  : AI / MACHINE LEARNING / DATA SCIENCE           │
+│  MODE    : BUILD > TEST > LEARN > REPEAT                  │
+│  PHILOSOPHY: LESS NOISE. BETTER EXPERIMENTS.               │
+└───────────────────────────────────────────────────────────┘
 ```
 
-AI/ML enthusiast focused on developing data-driven applications using Python, Machine Learning, and Natural Language Processing. Skilled in data preprocessing, model development, and evaluation using Scikit-learn and related technologies. Committed to building practical, efficient, and reliable AI solutions while continuously expanding technical expertise.
+## `$ whoami`
+
+I work at the intersection of data, algorithms, and intelligent systems, building practical applications that transform information into meaningful insights.
+
+My approach is straightforward: understand the problem, develop a solution, evaluate the results, and improve the implementation.
+
+My current focus is Python-based machine learning, natural language processing, predictive modeling, and intelligent applications.
 
 ```python
-class SaeeNikam:
-    def __init__(self):
-        self.role = "Aspiring AI/ML Engineer"
-        self.education = "B.Tech in Data Science Engineering"
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Natural Language Processing",
-            "Data Science"
-        ]
-        self.goal = "Build practical AI/ML solutions"
-
-    def say_hello(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = SaeeNikam()
-me.say_hello()
+class Developer:
+    name = "Saee Nikam"
+    focus = ["AI", "Machine Learning", "Data Science"]
+    primary_language = "Python"
+    interests = [
+        "Predictive Modeling",
+        "Natural Language Processing",
+        "Intelligent Applications"
+    ]
+    workflow = "Understand -> Build -> Evaluate -> Improve"
 ```
 
 ---
 
-## `01. About Me`
+## `$ tech --stack`
 
-- Final-year B.Tech Data Science Engineering student
-- Interested in Machine Learning and Artificial Intelligence
-- Building practical projects using Python and Scikit-learn
-- Interested in data analysis, model evaluation, and NLP
-- Looking for paid AI/ML internship opportunities and opportunities to learn through real-world projects
+### Programming & Data
 
----
+![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=013243)
 
-## `02. Technical Skills`
+### Machine Learning & NLP
 
-**Languages**
-- Python
-- SQL
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-1E293B?style=flat-square)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-1E293B?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-1E293B?style=flat-square)
 
-**Machine Learning & Data Science**
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+### Tools & Development
 
-**Machine Learning Concepts**
-- Classification and Regression
-- Feature Engineering
-- Model Training and Evaluation
-- Data Preprocessing
-- Exploratory Data Analysis
-
-**Natural Language Processing**
-- Text Preprocessing
-- TF-IDF
-- Cosine Similarity
-- Sentiment Analysis
-
-**Tools & Platforms**
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=FFFFFF)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
-## `03. Projects`
+## `$ ls ./projects`
 
-### 1. Student Performance Prediction
+### `01` — Student Performance Prediction
 
-**Tech Stack:** Python, Pandas, Scikit-learn
+A classification project focused on preparing student data, training a machine learning model, and evaluating predictive performance.
 
-- Built a classification model to predict student performance.
-- Applied data preprocessing and model training.
-- Explored evaluation techniques to assess model performance.
+**Tech:** Python · Pandas · Scikit-learn · Classification
 
 [View Repository](https://github.com/saeenikam19/student-performance-prediction)
 
-### 2. House Price Prediction
+### `02` — House Price Prediction
 
-**Tech Stack:** Python, Pandas, Scikit-learn
+A regression project that explores property features, price estimation, data preparation, and model evaluation.
 
-- Developed a regression model to estimate house prices.
-- Prepared data for model training and evaluation.
-- Explored regression metrics to understand prediction accuracy.
+**Tech:** Python · Pandas · Scikit-learn · Regression
 
-[Explore My GitHub Repositories](https://github.com/saeenikam19?tab=repositories)
+[Explore Repositories](https://github.com/saeenikam19?tab=repositories)
 
-### 3. Customer Review Sentiment Analysis
+### `03` — Customer Sentiment Analyzer
 
-**Tech Stack:** Python, Pandas, Scikit-learn, NLP
+An NLP project that converts customer review text into numerical features using TF-IDF and applies text classification techniques to analyze sentiment.
 
-- Built a text classification project to analyze customer review sentiment.
-- Used TF-IDF to transform text into numerical features.
-- Explored how machine learning can classify customer feedback.
+**Tech:** Python · NLP · TF-IDF · Text Classification
 
-[Explore My GitHub Repositories](https://github.com/saeenikam19?tab=repositories)
+[Explore Repositories](https://github.com/saeenikam19?tab=repositories)
 
-### 4. Resume–Job Description Matcher
+### `04` — Resume–Job Match Engine
 
-**Tech Stack:** Python, NLP, TF-IDF, Cosine Similarity
+A text-matching application that compares resumes with job descriptions using TF-IDF and cosine similarity to estimate textual relevance.
 
-- Developed a project to compare resumes with job descriptions.
-- Used text similarity techniques to estimate how closely the documents match.
-- Explored NLP applications for recruitment and job matching.
+**Tech:** Python · NLP · TF-IDF · Cosine Similarity
 
-[Explore My GitHub Repositories](https://github.com/saeenikam19?tab=repositories)
+[Explore Repositories](https://github.com/saeenikam19?tab=repositories)
 
 ---
 
-## `04. Currently Learning`
+## `$ cat learning.log`
 
 ```text
-[+] Machine Learning Model Development
-[+] Python for AI/ML Engineering
-[+] Natural Language Processing
-[+] Model Evaluation and Improvement
-[+] Building End-to-End AI/ML Projects
+[01] Strengthening machine learning implementation
+[02] Exploring NLP and language-based applications
+[03] Improving model evaluation and experimentation
+[04] Developing end-to-end AI/ML projects
+[05] Writing cleaner, reusable Python code
 ```
 
-My focus is on strengthening my practical coding skills and building projects that demonstrate my ability to apply machine learning concepts.
-
----
-## `06. Contact`
-
-- **GitHub:** [@saeenikam19](https://github.com/saeenikam19)
-- **LinkedIn:** https://www.linkedin.com/in/saee-nikam-96bb5821b
-- **Email:** saeenikam19@gmail.com
+The objective is not simply to make a model run. It is to understand its behavior, evaluate its limitations, and build something useful around it.
 
 ---
 
-```text
-$ echo "Keep learning. Keep building. Keep improving."
+## `$ git --activity`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeenikam19&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeenikam19&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## `$ connect --with-saee`
+
+Interested in AI/ML engineering, practical machine learning applications, and collaborating on meaningful technical projects.
+
+- **GitHub:** [saeenikam19](https://github.com/saeenikam19)
+- **LinkedIn:** Add your LinkedIn profile URL
+- **Email:** Add your professional email address
+
+---
+
+```bash
+while true; do
+    learn
+    build
+    test
+    improve
+done
 ```
 
-Thanks for visiting my profile!
+<sub>Less noise. Better experiments. Useful solutions.</sub>
